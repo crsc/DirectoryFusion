@@ -1,7 +1,7 @@
 import java.util.Calendar;
 import java.util.Date;
 
-public class File {
+public class File{
     private Date date;
     private String name;
 
